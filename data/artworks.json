@@ -1,0 +1,478 @@
+[
+  {
+    "id": "w001",
+    "title": "《丛林》",
+    "titleEn": "The Jungle",
+    "year": "1942—1943",
+    "artistId": "lam",
+    "hues": [
+      "green",
+      "yellow"
+    ],
+    "shapes": [
+      "organic",
+      "triangle"
+    ],
+    "seed": 10,
+    "placeholder": true
+  },
+  {
+    "id": "w002",
+    "title": "《永恒的存在》",
+    "titleEn": "The Eternal Presence",
+    "year": "1944",
+    "artistId": "lam",
+    "hues": [
+      "purple",
+      "red"
+    ],
+    "shapes": [
+      "organic",
+      "curve"
+    ],
+    "seed": 17,
+    "placeholder": true
+  },
+  {
+    "id": "w003",
+    "title": "《婚礼》",
+    "titleEn": "The Wedding",
+    "year": "1947",
+    "artistId": "lam",
+    "hues": [
+      "blue",
+      "green"
+    ],
+    "shapes": [
+      "organic",
+      "rect"
+    ],
+    "seed": 24,
+    "placeholder": true
+  },
+  {
+    "id": "w004",
+    "title": "《爱的眩晕》",
+    "titleEn": "The Vertigo of Eros",
+    "year": "1944",
+    "artistId": "matta",
+    "hues": [
+      "red",
+      "purple"
+    ],
+    "shapes": [
+      "organic",
+      "curve"
+    ],
+    "seed": 31,
+    "placeholder": true
+  },
+  {
+    "id": "w005",
+    "title": "《心理形态入侵》",
+    "titleEn": "Invasion of the Night",
+    "year": "1941",
+    "artistId": "matta",
+    "hues": [
+      "blue",
+      "purple"
+    ],
+    "shapes": [
+      "curve",
+      "organic"
+    ],
+    "seed": 38,
+    "placeholder": true
+  },
+  {
+    "id": "w006",
+    "title": "《小女巫》",
+    "titleEn": "Bruja infante",
+    "year": "1951",
+    "artistId": "vigas",
+    "hues": [
+      "red",
+      "yellow"
+    ],
+    "shapes": [
+      "organic",
+      "circle"
+    ],
+    "seed": 45,
+    "placeholder": true
+  },
+  {
+    "id": "w007",
+    "title": "《思源》",
+    "titleEn": "Ancestral",
+    "year": "1976",
+    "artistId": "vigas",
+    "hues": [
+      "yellow",
+      "green"
+    ],
+    "shapes": [
+      "organic",
+      "triangle"
+    ],
+    "seed": 52,
+    "placeholder": true
+  },
+  {
+    "id": "w008",
+    "title": "《始源》",
+    "titleEn": "Génesis",
+    "year": "1980",
+    "artistId": "vigas",
+    "hues": [
+      "blue",
+      "red"
+    ],
+    "shapes": [
+      "organic",
+      "rect"
+    ],
+    "seed": 59,
+    "placeholder": true
+  },
+  {
+    "id": "w009",
+    "title": "《可穿行装置》系列",
+    "titleEn": "Penetrables",
+    "year": "1967年起",
+    "artistId": "soto",
+    "hues": [
+      "blue",
+      "yellow"
+    ],
+    "shapes": [
+      "rect",
+      "curve"
+    ],
+    "seed": 66,
+    "placeholder": true
+  },
+  {
+    "id": "w010",
+    "title": "《动态结构》系列",
+    "titleEn": "Vibrations",
+    "year": "1950年代起",
+    "artistId": "soto",
+    "hues": [
+      "purple",
+      "blue"
+    ],
+    "shapes": [
+      "rect",
+      "circle"
+    ],
+    "seed": 73,
+    "placeholder": true
+  },
+  {
+    "id": "w011",
+    "title": "《白与绿》系列",
+    "titleEn": "Blanco y Verde",
+    "year": "1950年代起",
+    "artistId": "herrera",
+    "hues": [
+      "green",
+      "blue"
+    ],
+    "shapes": [
+      "triangle",
+      "rect"
+    ],
+    "seed": 80,
+    "placeholder": true
+  },
+  {
+    "id": "w012",
+    "title": "《绿色与白色》",
+    "titleEn": "Green and White",
+    "year": "1956",
+    "artistId": "herrera",
+    "hues": [
+      "green",
+      "yellow"
+    ],
+    "shapes": [
+      "triangle",
+      "rect"
+    ],
+    "seed": 87,
+    "placeholder": true
+  },
+  {
+    "id": "w013",
+    "title": "《星期六》",
+    "titleEn": "Saturday",
+    "year": "1978",
+    "artistId": "herrera",
+    "hues": [
+      "red",
+      "purple"
+    ],
+    "shapes": [
+      "triangle",
+      "rect"
+    ],
+    "seed": 94,
+    "placeholder": true
+  },
+  {
+    "id": "w014",
+    "title": "《物理色彩》系列",
+    "titleEn": "Physichromies",
+    "year": "1959年起",
+    "artistId": "cruz",
+    "hues": [
+      "red",
+      "green"
+    ],
+    "shapes": [
+      "rect",
+      "curve"
+    ],
+    "seed": 101,
+    "placeholder": true
+  },
+  {
+    "id": "w015",
+    "title": "《色彩感应》系列",
+    "titleEn": "Induction Chromatique",
+    "year": "1963年起",
+    "artistId": "cruz",
+    "hues": [
+      "yellow",
+      "blue"
+    ],
+    "shapes": [
+      "rect",
+      "circle"
+    ],
+    "seed": 108,
+    "placeholder": true
+  },
+  {
+    "id": "w016",
+    "title": "《色彩附加》系列",
+    "titleEn": "Couleur Additive",
+    "year": "1959年起",
+    "artistId": "cruz",
+    "hues": [
+      "purple",
+      "green"
+    ],
+    "shapes": [
+      "rect",
+      "triangle"
+    ],
+    "seed": 115,
+    "placeholder": true
+  },
+  {
+    "id": "w017",
+    "title": "《可穿行装置》系列 · 视觉研究 A",
+    "titleEn": "Penetrables / Study A",
+    "year": "1967年起",
+    "artistId": "soto",
+    "hues": [
+      "blue",
+      "yellow"
+    ],
+    "shapes": [
+      "rect",
+      "curve"
+    ],
+    "seed": 122,
+    "placeholder": true
+  },
+  {
+    "id": "w018",
+    "title": "《可穿行装置》系列 · 视觉研究 B",
+    "titleEn": "Penetrables / Study B",
+    "year": "1967年起",
+    "artistId": "soto",
+    "hues": [
+      "yellow",
+      "blue"
+    ],
+    "shapes": [
+      "curve",
+      "rect"
+    ],
+    "seed": 129,
+    "placeholder": true
+  },
+  {
+    "id": "w019",
+    "title": "《动态结构》系列 · 视觉研究 A",
+    "titleEn": "Vibrations / Study A",
+    "year": "1950年代起",
+    "artistId": "soto",
+    "hues": [
+      "purple",
+      "blue"
+    ],
+    "shapes": [
+      "rect",
+      "circle"
+    ],
+    "seed": 136,
+    "placeholder": true
+  },
+  {
+    "id": "w020",
+    "title": "《动态结构》系列 · 视觉研究 B",
+    "titleEn": "Vibrations / Study B",
+    "year": "1950年代起",
+    "artistId": "soto",
+    "hues": [
+      "blue",
+      "purple"
+    ],
+    "shapes": [
+      "circle",
+      "rect"
+    ],
+    "seed": 143,
+    "placeholder": true
+  },
+  {
+    "id": "w021",
+    "title": "《白与绿》系列 · 视觉研究 A",
+    "titleEn": "Blanco y Verde / Study A",
+    "year": "1950年代起",
+    "artistId": "herrera",
+    "hues": [
+      "green",
+      "blue"
+    ],
+    "shapes": [
+      "triangle",
+      "rect"
+    ],
+    "seed": 150,
+    "placeholder": true
+  },
+  {
+    "id": "w022",
+    "title": "《白与绿》系列 · 视觉研究 B",
+    "titleEn": "Blanco y Verde / Study B",
+    "year": "1950年代起",
+    "artistId": "herrera",
+    "hues": [
+      "blue",
+      "green"
+    ],
+    "shapes": [
+      "rect",
+      "triangle"
+    ],
+    "seed": 157,
+    "placeholder": true
+  },
+  {
+    "id": "w023",
+    "title": "《物理色彩》系列 · 视觉研究 A",
+    "titleEn": "Physichromies / Study A",
+    "year": "1959年起",
+    "artistId": "cruz",
+    "hues": [
+      "red",
+      "green"
+    ],
+    "shapes": [
+      "rect",
+      "curve"
+    ],
+    "seed": 164,
+    "placeholder": true
+  },
+  {
+    "id": "w024",
+    "title": "《物理色彩》系列 · 视觉研究 B",
+    "titleEn": "Physichromies / Study B",
+    "year": "1959年起",
+    "artistId": "cruz",
+    "hues": [
+      "green",
+      "red"
+    ],
+    "shapes": [
+      "curve",
+      "rect"
+    ],
+    "seed": 171,
+    "placeholder": true
+  },
+  {
+    "id": "w025",
+    "title": "《色彩感应》系列 · 视觉研究 A",
+    "titleEn": "Induction Chromatique / Study A",
+    "year": "1963年起",
+    "artistId": "cruz",
+    "hues": [
+      "yellow",
+      "blue"
+    ],
+    "shapes": [
+      "rect",
+      "circle"
+    ],
+    "seed": 178,
+    "placeholder": true
+  },
+  {
+    "id": "w026",
+    "title": "《色彩感应》系列 · 视觉研究 B",
+    "titleEn": "Induction Chromatique / Study B",
+    "year": "1963年起",
+    "artistId": "cruz",
+    "hues": [
+      "blue",
+      "yellow"
+    ],
+    "shapes": [
+      "circle",
+      "rect"
+    ],
+    "seed": 185,
+    "placeholder": true
+  },
+  {
+    "id": "w027",
+    "title": "《色彩附加》系列 · 视觉研究 A",
+    "titleEn": "Couleur Additive / Study A",
+    "year": "1959年起",
+    "artistId": "cruz",
+    "hues": [
+      "purple",
+      "green"
+    ],
+    "shapes": [
+      "rect",
+      "triangle"
+    ],
+    "seed": 192,
+    "placeholder": true
+  },
+  {
+    "id": "w028",
+    "title": "《色彩附加》系列 · 视觉研究 B",
+    "titleEn": "Couleur Additive / Study B",
+    "year": "1959年起",
+    "artistId": "cruz",
+    "hues": [
+      "green",
+      "purple"
+    ],
+    "shapes": [
+      "triangle",
+      "rect"
+    ],
+    "seed": 199,
+    "placeholder": true
+  }
+]
